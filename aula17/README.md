@@ -22,13 +22,13 @@ Uma sub-rotina decide quem venceu e o programa soma os pontos das 5 rodadas.
 - Repetição (for): jogar as 5 rodadas e manter o placar
 - Sub-rotinas (def/return): isolar a regra do jogo
  
- ## Autoavaliação
- Conceito pretendido: [ A / B / C / D ]
+## Autoavaliação
+Conceito pretendido: [ A / B / C / D ]
 
- Justificativa                
- - O jogo funciona           : ppt.py a
- - Trabalho com texto        : ppt.py (.lower().strip(), in, ==)
- - Documentação e Git        : este README + commits no GitHub
- - Extensâo/originalidade    : ppt.py, linha (o que eu criei - níveis B/A)
-
- Autor: [Daniel gonçalves de souza]
+Justificativa       
+- O jogo funciona Roda corretamente a melhor de 5: ppt.py, linhas 1 a 44 
+- Trabalho com texto normaliza, valida e compara corretamente: ppt.py (.lower().strip(), in, ==)
+- Documentação e Git README presente; código no GitHub: este README + commits no GitHub
+- Extensão/originalidade entrego o jogo base (nível C): ppt.py, linha (o que eu criei - níveis B/A)
+- Autoavaliação justificada declaro o conceito com justificativa simples ou parcial
+Autor: [Daniel gonçalves de souza]
