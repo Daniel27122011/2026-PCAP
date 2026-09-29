@@ -1,0 +1,12 @@
+/*
+programa: 1000.c
+Data: 2026.09.22
+Autor: Daniel
+*/
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello World!\n");
+    return 0;
+}
