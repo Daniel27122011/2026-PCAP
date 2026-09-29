@@ -1,3 +1,8 @@
+/*
+Problema 1041 BeeCrowd
+2026.09.29
+Daniel G. souza
+*/
 #include <stdio.h>
 
 int main(){
@@ -7,18 +12,18 @@ int main(){
 
     if (x == 0 && y == 0) {
         printf("Origem\n");
-    } else if (x ==_____) {
+    } else if (x == 0) {
         printf("Eixo Y\n");
-    } else if (_____== 0) {
+    } else if (y == 0) {
         printf("Eixo X\n");
     } else if (x > 0 && y > 0) {
         printf("Q1\n");
     } else if (x < 0 && y > 0) {
         printf("Q2\n");
-    } else if (_____&&____){
+    } else if (x < 0 && y > 0){
         printf("Q3\n");
     } else {
-        printf("_____\n");
+        printf("Q4\n");
     }
 
     return 0;
