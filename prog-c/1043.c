@@ -1,5 +1,5 @@
 /*
-Problema 1044 BeeCrowd
+Problema 1043 BeeCrowd
 2026.09.29
 Daniel G. souza
 */
