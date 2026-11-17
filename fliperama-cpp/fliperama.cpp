@@ -88,7 +88,7 @@ void cadastrar(vector<string> &apelidos, vector<int> &partidas) {
     string novo;
 
     titulo("NOVO JOGADOR");
-    novo = ler_texto("Apelido (sem espaco)");
+    novo = ler_texto("Apelido (sem espacos)");
 
     apelidos.push_back(novo);
     partidas.push_back(0);
